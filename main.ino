@@ -1,8 +1,7 @@
-//membaca Accelerometer BMA180 dan Gyroscope ITG3205
 #include <Wire.h> //The I2C library
 #include <Servo.h>
 
-//for storing calculated values later on
+//Position Error from CenterVal
 int Error = 0; //Error 
 
 //IMU------------------------------------------------------------
