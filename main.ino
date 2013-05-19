@@ -322,7 +322,7 @@ void printData() {
   Serial.print(rollmap);
   Serial.print("roll \t"); 
   Serial.print(Error);
-  Serial.print("out \t");
+  Serial.print("error \t");
 
   Serial.print(rollServo);
   Serial.print("servo \t");
