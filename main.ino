@@ -6,7 +6,7 @@
 int Error = 0; //Error 
 
 //IMU------------------------------------------------------------
-int CenterVal = 90; //balancing value for IMU
+int CenterVal = 90; //maintained value for Servo
 
 
 #define BMA180              0x40
